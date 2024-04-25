@@ -8,5 +8,5 @@
 
 ### demo
 ---
-clikc [here]() to see demo
+clikc [here](https://almousaz.github.io/Sticky-Navbar-repo/) to see demo
 
